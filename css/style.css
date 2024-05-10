@@ -1,0 +1,21 @@
+/* standard elements */
+html {
+    font-family : 'Times New Roman', Times, serif
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+a:visited {
+    
+}
+
