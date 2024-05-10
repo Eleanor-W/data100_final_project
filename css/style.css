@@ -1,6 +1,7 @@
 /* standard elements */
 html {
-    font-family : 'Times New Roman', Times, serif
+    font-family : 'Times New Roman', Times, serif;
+    color : black;
 }
 
 nav a {
@@ -15,7 +16,20 @@ nav ul {
     justify-content: space-around;
 }
 
-a:visited {
-    
+nav ul li {
+    border-radius: 5rem;
+    border-color: black;
+    border-width: 0.1rem;
+    border-style: solid;
+    padding : 1rem;
+}
+
+nav ul li a {
+    color : black;
+}
+
+nav ul li a:hover {
+    color : green;
+    border-color : green;
 }
 
