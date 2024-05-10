@@ -2,6 +2,8 @@
 html {
     font-family : 'Times New Roman', Times, serif;
     color : black;
+    margin-left : 2em;
+    margin-right : 2em;
 }
 
 nav a {
@@ -19,17 +21,31 @@ nav ul {
 nav ul li {
     border-radius: 5rem;
     border-color: black;
-    border-width: 0.1rem;
+    border-width: 0.15rem;
     border-style: solid;
     padding : 1rem;
+}
+
+nav ul li:hover {
+    border-color : #71D25D;
+    a {
+        color : #71D25D;
+    }
 }
 
 nav ul li a {
     color : black;
 }
 
-nav ul li a:hover {
-    color : green;
-    border-color : green;
+h1 {
+    display : flex;
+    justify-content :center ;
+    font-size: 3rem;
+}
+
+
+.flex {
+    display : flex;
+
 }
 
