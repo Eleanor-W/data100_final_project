@@ -43,17 +43,29 @@ h1 {
     font-size: 3rem;
 }
 
+footer {
+    margin-top: 1rem;
+    border-top: 0.1rem black solid;
+    font-size: 0.9rem;
+}
+
 /* classes */
 
 .image_width {
     display: block;
-    width : 60%;
+    width : 400%;
     margin-left : auto;
     margin-right : auto;
+    padding : 2rem;
 }
 
 .flex {
     display : flex;
     justify-content : left-align;
+}
+
+.eleanor_page {
+    display : flex ;
+    align-items : center;
 }
 
