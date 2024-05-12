@@ -79,6 +79,7 @@ footer {
 
 .flex {
     display: flex;
+    justify-content: left
 }
 
 
