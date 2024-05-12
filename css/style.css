@@ -79,8 +79,8 @@ footer {
 
 .flex {
     display: flex;
-    justify-content: left
-    align-content: center
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 
@@ -102,9 +102,5 @@ footer {
     justify-content: space-around;
 }
 
-.textbox {
-    display: block;
-    width: 250%;
-}
 
 
