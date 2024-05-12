@@ -83,10 +83,6 @@ footer {
     justify-content: left-align;
 }
 
-.lists {
-    display: flex;
-    justify-content: space-around;
-}
 
 .eleanor_page {
     display : flex ;
@@ -96,6 +92,7 @@ footer {
 .inner {
     display: flex ;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 
