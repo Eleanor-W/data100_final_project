@@ -91,14 +91,15 @@ footer {
 
 .inner {
     display: flex ;
-    flex: 0 0 auto;
     justify-content: flex-end;
+    align-items: center;
 }
 
 .top5 {
     display: flex;
     justify-content: space-around;
     flex: 1 0 auto;
+    padding-right: 2rem;
 }
 
 
