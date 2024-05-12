@@ -79,8 +79,8 @@ footer {
 }
 
 .flex {
-    display : flex;
-    justify-content : left-align;
+    display: flex;
+    justify-content: left-align;
 }
 
 .lists {
@@ -94,9 +94,8 @@ footer {
 }
 
 .inner {
-    display : flex ;
-    flex-direction: column:
-    justify-content: center;
+    display: flex ;
+    flex-wrap: wrap;
 }
 
 
