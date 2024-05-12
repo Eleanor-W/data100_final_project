@@ -80,7 +80,7 @@ footer {
 .flex {
     display: flex;
     justify-content: flex-start;
-    flex: 
+    flex: 0 0 auto;
 }
 
 
