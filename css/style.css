@@ -92,8 +92,8 @@ footer {
     display: flex ;
     flex-direction: column;
     justify-content: center;
-    margin-left: 2rem
-    padding-left: 2rem
+    margin-right: 2rem
+    padding-right: 2rem
 }
 
 .top5 {
