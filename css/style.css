@@ -67,7 +67,7 @@ footer {
     width : 400%;
     margin-left : auto;
     margin-right : auto;
-    padding : 2rem;
+    padding-right : 2rem;
 }
 
 .image_width1 {
@@ -80,6 +80,7 @@ footer {
 .flex {
     display: flex;
     justify-content: flex-start;
+    flex: 
 }
 
 
@@ -91,9 +92,7 @@ footer {
 .inner {
     display: flex ;
     flex-direction: column;
-    justify-content: center;
-    margin-right: 2rem
-    padding-right: 2rem
+    justify-content: space-between;
 }
 
 .top5 {
